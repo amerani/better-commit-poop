@@ -1,0 +1,8 @@
+{
+  "name": "better-commit-poop",
+  "version": "1.0.0",
+  "description": "better-commit plugin example for appending poop emoji",
+  "main": "index.js",
+  "author": "Alek Merani",
+  "license": "MIT"
+}
